@@ -20,3 +20,7 @@ This Projet is very simple by idea but contains strong basic functionalities tha
 - Middleware functions
 - How to connect backend functionality with frontend.
 - Context API concept - Most Important
+
+## Screenshot
+
+![notes](https://user-images.githubusercontent.com/47951316/232628783-8dd33fe2-be96-41fc-a007-361210e918e3.png)
